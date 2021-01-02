@@ -63,7 +63,7 @@ Github提供了一个secret功能，用于存储密钥等敏感信息，请按�
 
 # 方法三：使用Windows的任务计划程序（适合每天需要打开电脑来学习的同学）
 不需要服务器，不需要了解`github actions`, 本地运行，不需担心sep账号密码泄露。
-
+ 
 需要本地电脑安装python3，并且安装库pytz和requests，并设置好环境变量。
 使用步骤：
 - git clone 本仓库
